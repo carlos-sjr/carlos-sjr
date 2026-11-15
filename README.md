@@ -11,10 +11,12 @@ O perfil ainda tá meio bagunçado, mas tô ajeitando.
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=carlos-sjr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github contribution grid snake animation" src="https://githubusercontent.com" />
+  </picture>
+</div>
 
 </div>
