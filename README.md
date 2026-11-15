@@ -19,4 +19,3 @@ O perfil ainda tá meio bagunçado, mas tô ajeitando.
   </picture>
 </div>
 
-</div>
