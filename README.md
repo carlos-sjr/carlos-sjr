@@ -1,11 +1,9 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá, bem vindo! Eu sou Carlos Junior <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Salve! Que bom que veio, eu sou Carlos Jr!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-
-- 🔭 Hoje eu trabalho com Delphi(Pascal)
-- 🌱 Atualmente estou aprendendo outras linguagens de programação e a como utilizar game engines
+O perfil ainda tá meio bagunçado, mas tô ajeitando.
 
 <div align="center">
   <a href="https://github.com/carlos-sjr">
