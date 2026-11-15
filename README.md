@@ -11,5 +11,6 @@ O perfil ainda tá meio bagunçado, mas tô ajeitando.
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=carlos-sjr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://githubusercontent.com)
-![Snake animation](https://githubusercontent.com)
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Snake animation" />
+</div>
