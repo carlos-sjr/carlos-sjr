@@ -12,5 +12,5 @@ O perfil ainda tá meio bagunçado, mas tô ajeitando.
 </div>
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="Snake animation" />
+  <img src="/carlos-sjr/carlos-sjr/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
